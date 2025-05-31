@@ -1,2 +1,1 @@
-# mlip-api-lab-main
- mlip-api-lab
+This project integrates Microsoft Azure's Vision API to perfrom OCR on images via sending an API call containing the url of the pictrure intended to OCR to Azure's Computer Vision resource, in return,  a dictionary form message is returned from Azure's Computer Vision resource. This project only implements Command Line Interface functionality and is on the protoype level. 
